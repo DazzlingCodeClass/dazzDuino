@@ -9,8 +9,7 @@ In this activity, students will become familiar with switches, and also schemati
 
 ###Activity Goals:
 - Imporve schematic drawing and reading skills
-- Introduction to switches
-- 
+- Introduction to switches 
 
 
 ---
