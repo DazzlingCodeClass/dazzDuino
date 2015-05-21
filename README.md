@@ -9,7 +9,7 @@
 
 The Dazzling Electronics Curriculum is a set of activities developed to teach mainly children from ages 9 to 14 about electronics. There are three branches to the curriculum: The Basic Branch, The Builder Branch, and The Methods Branch. Each "branch" consists of activities that target a specific set of interests and topics.
 
-In each activity folder, there is a Frtizing file, circuit schematic, breadboard image of the circuit, and a bill(list) of materials(a.k.a. BOM) for each activity. In addition to that, there is a readme file included which outlines the activity summary, actitcity goals, and the activity procedure.
+In each activity folder, there is a Frtizing file, circuit schematic, breadboard image of the circuit, and a bill(list) of materials(a.k.a. BOM) for each activity. In addition to that, there is a readme file included which outlines the activity summary, actitvity goals, and the activity procedure.
 
 Also (if not already existant in this repo), there will be instruction sets on how to install ArduBlock and S4A, which are graphical alternatives to using the Adruino IDE to program the Arduino board. A link to the Arduino IDE download instruction set and file will be linked in as well in the wiki.
 
