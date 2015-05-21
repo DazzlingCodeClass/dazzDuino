@@ -3,7 +3,7 @@
 
 ---
 
-*Our children are our future, and this repo is just one extension of one organization trying to help further the education of children. Electronics is an amazing microcosmic world that feeds into so many other areas of interest in sciecne and engineering. Take the leap, and expand your knowledge and your child's.*
+*Our children are our future, and this repo is just one extension of one organization trying to help further the education of children. Electronics is an amazing microcosmic world that feeds into so many other areas of interest in science and engineering. Take the leap, and expand your knowledge and your child's.*
 
 ---
 
