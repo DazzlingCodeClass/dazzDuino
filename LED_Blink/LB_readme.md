@@ -15,13 +15,4 @@ In this activity, students will become familiar with switches, and also schemati
 ---
 
 
-###Activity Supplies:
-- LED(any diameter is fine)
-- Tactile Switch
-- 10 kilo-ohm resistor
-
-
----
-
-
 ###Activity Procedure:
