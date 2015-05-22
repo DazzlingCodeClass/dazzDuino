@@ -3,7 +3,7 @@
 
 ---
 
-*Our children are our future, and this repo is just one extension of one organization trying to help further the education of children. Electronics is an amazing microcosmic world that feeds into so many other areas of interest in science and engineering. Take the leap, and expand your knowledge and your child's.*
+*Our children are our future, and this repo is just one extension of one organization trying to help further the education of children. Electronics is an amazing microcosmic world that feeds into so many other areas of interest in science, engineering, and the arts. Take the leap, and expand your knowledge and your child's.*
 
 ---
 
@@ -24,7 +24,7 @@ Upon the completion of this branch, students decide which of the next two branch
 This branch is focused around the student who prefers to build structures and contraptions. The main tenant of this branch is to build a structure of some sort (i.e. a crane or robotic arm) and then actuate it; build something that doesn't do too much and expand upon its abilities and uses through the application of control systems or other hardware/software extension. For example, if a student builds a small crane that a person can lower and raise the arm of it, we will expand upon the design by attaching a servo or other motor to move the arm which would be controlled by a microcontroller such as the Arduino. 
 
 ####The Methods Branch
-This branch is focused around the student who prefers to learn about applications of hardware and software rather than design and build their own systems. Simply put, this branch is for the student who is not fond around building structures. The main tenant of this branch is to explore the cross sections of electronics and other fields, for example music. One popular set of projects is making a snyth using a series of potentiometers, a microcontroller, and a series of other components, and then "see" what's going on through the use of an oscilloscope. 
+This branch is focused around the student who prefers to learn about applications of hardware and software rather than design and build their own systems. Simply put, this branch is for the student who is not fond around building structures. The main tenant of this branch is to explore the cross sections of electronics and other fields, for example music. One popular set of projects is making a synth using a series of potentiometers, a microcontroller, and a series of other components, and then "see" what's going on through the use of an oscilloscope. 
 
 ---
 
