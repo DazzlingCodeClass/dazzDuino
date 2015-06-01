@@ -1,17 +1,39 @@
 Let's jump right in!
 
-First thing's first, make sure you have a webpage opened to the github repository where this file is located. Simply put a repository in this context means a place where files are stored for multiple people to download and use. Github is the company that runs the online repository we are using. If you need the URL(web address) of the github repo(a nickname for repositroy), here it is: https://github.com/DazzlingCodeClass/dazzDuino
+First thing's first, make sure you have a webpage opened to the github 
+repository where this file is located. Simply put a repository in this context 
+means a place where files are stored for multiple people to download and use.
+Github is the company that runs the online repository we are using. If you 
+need the URL(web address) of the github repo(a nickname for repositroy), 
+here it is: https://github.com/DazzlingCodeClass/dazzDuino
 
-When the page loads, look on the right side. You should see a menu of options such as "Issues", "Pull Requests", and so on. Towards the bottom of that menu you will find a grey button that says "Download ZIP". Click it. This will download all of the files in the repo so you can store them on the computer you are using.
+When the page loads, look on the right side. You should see a menu of options 
+such as "Issues", "Pull Requests", and so on. Towards the bottom of that menu 
+you will find a grey button that says "Download ZIP". Click it. This will 
+download all of the files in the repo so you can store them on the computer 
+you are using.
 
-Now find your way to the file you just downloaded (the file should be called dazzDuino-master.zip). It should be in your Downloads folder on the computer. You will need to "unzip" this file, meaning that this one file contains many other files which have been shrunk down(also known as being "zipped") so that they can be downloaded easily and take up less memory. When you unzip the file, it will "unpack" all the files buried inside so you can open and use them like any other file on your computer. If you know how to unzip a file, go ahead and do it. If you do not know how to unzip files, just call your instructor over for help.
+Now find your way to the file you just downloaded (the file should be called 
+dazzDuino-master.zip). It should be in your Downloads folder on the computer. 
+You will need to "unzip" this file, meaning that this one file contains many 
+other files which have been shrunk down(also known as being "zipped") so 
+that they can be downloaded easily and take up less memory. When you unzip 
+the file, it will "unpack" all the files buried inside so you can open and use 
+them like any other file on your computer. If you know how to unzip a file, go 
+ahead and do it. If you do not know how to unzip files, just call your instructor 
+over for help.
 
 When you unzip the file, move it to your desktop for easy access.
 
-You now have acess to the documents that will guide you through the electronics lessons. After completing the lessons in the Basic_Branch folder, you will have the option to choose which set of lessons you want to do, either the ones in the Methods_Branch or Builder_Branch folder. 
+You now have acess to the documents that will guide you through the 
+electronics lessons. After completing the lessons in the Basic_Branch folder, 
+you will have the option to choose which set of lessons you want to do, 
+either the ones in the Methods_Branch or Builder_Branch folder. 
 
-If you have any ideas for lessons that we can add to the Methods Branch or the Builder Branch sets, please let us know. 
+If you have any ideas for lessons that we can add to the Methods Branch 
+or the Builder Branch sets, please let us know. 
 
 If you have any questions, ask one of your instructors.
 
-Once you have read through this raise your hand, and we can get started with the lessons.
+Once you have read through this raise your hand, and we can get started 
+with the lessons.
