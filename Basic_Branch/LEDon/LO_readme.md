@@ -50,7 +50,7 @@ This activity is designed for students to "get their feet wet". Purely meant to 
 
 ###Activity Procedure:
 
-1.) Gather Supplies.
-2.) Wire the breadboard according to the schematic in the folder labeled led_on_schem.pdf
-3.) Gather a piece of paper and a pencil, if you do not have these already.
-4.) Close the circuit schematic on the computer. Look at the circuit you have created on the breadboard, and draw the circuit for yourself. Remember to use the proper symbols.
+1. Gather Supplies.
+2. Wire the breadboard according to the schematic in the folder labeled led_on_schem.pdf
+3. Gather a piece of paper and a pencil, if you do not have these already.
+4. Close the circuit schematic on the computer. Look at the circuit you have created on the breadboard, and draw the circuit for yourself. Remember to use the proper symbols.
